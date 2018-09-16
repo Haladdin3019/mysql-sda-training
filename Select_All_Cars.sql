@@ -1,1 +1,1 @@
-SELECT * FROM cars;
+SELECT plate_id, brand, model, engine_cap_dm3, power_horse, prod_year FROM cars;
