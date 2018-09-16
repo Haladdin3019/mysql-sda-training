@@ -1,1 +1,1 @@
-SELECT * FROM customers_employee;
+SELECT customers_employee_id, company_id, name, surname, phone, comment FROM customers_employee;
